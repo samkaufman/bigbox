@@ -1,0 +1,6 @@
+name: morello
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - frozendict~=2.0
